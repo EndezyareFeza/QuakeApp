@@ -1,6 +1,6 @@
 # quake_app
 
-A new Flutter application.
+A new Flutter application to create a Quake app obtaining API from an earthquake web page.
 
 ## Getting Started
 
