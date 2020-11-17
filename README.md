@@ -1,10 +1,10 @@
 # quake_app
 
-A new Flutter application to create a Quake app obtaining API from an earthquake web page.
+A new Flutter application to create a Quake app for USA quakes obtaining API from the web page with json.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application to build a quake app to monitor quakes which are happening in the USA.
 
 A few resources to get you started if this is your first Flutter project:
 
